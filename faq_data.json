@@ -1,0 +1,430 @@
+[
+    {
+        "question": "If I have been awarded the Dean’s Exemplary Award of $1,000, will that award also be deferred?",
+        "answer": "Yes, if you have been awarded the Dean’s Exemplary Award of $1,000 that award will be deferred for up to two semesters from the original admit term."
+    },
+    {
+        "question": "If I am a transfer student and request deferment and continue course work at a community college during my deferment period and earn above the 80-unit maximum for the Transfer Tuition Scholarship (TTS), will my initial TTS award still be honored?",
+        "answer": "Yes, you will still have your merit scholarship honored for up to two semesters from fall 2020."
+    },
+    {
+        "question": "I am unable to request an official transcript from my high school, community college and/or university for my admissions application at this time. Will the University of Arizona accept unofficial transcripts?",
+        "answer": "Official transcripts are required for verification purposes and to officially transfer any college credit to the university. If you’re having trouble obtaining your official transcript, please contact the University of Arizona Office of Undergraduate Admissions at (520) 621-3237 or admissions@arizona.edu ."
+    },
+    {
+        "question": "How can I apply for financial aid?",
+        "answer": "To apply for financial aid, submit your FAFSA to the University of Arizona and include our school code, 001083. You may also be required to submit your official high school transcripts for federal aid verification purposes, even if they were not required for admissions evaluation."
+    },
+    {
+        "question": "I’m a transfer domestic/international student and have been awarded a merit tuition scholarship (Phi Theta Kappa, Transfer Tuition Award, Arizona Bridge, or Global Wildcat Award). Will I retain that for the future term I have requested for deferment?",
+        "answer": "Yes, if you were offered a merit tuition scholarship from the University of Arizona and choose to defer your enrollment you will have your scholarship reinstated for the new term. If the merit awards change for the new term you will not be eligible for the new award amount. However, if you enroll at another postsecondary institution during your deferment, you will no longer be eligible for the merit tuition scholarship you were originally offered. Your admission will be canceled and you will have to reapply for admission and be reevaluated for scholarship eligibility. All other financial aid offers including outside scholarships, or non-merit based University of Arizona tuition scholarships, grants, loans and other forms of aid offered for the original admit term will not be guaranteed. Upon return to the university in a future semester, you will receive a new financial aid offer. If you return a year after your original admit term to the university you will need to submit Free Application for Federal Student Aid (FAFSA ) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA."
+    },
+    {
+        "question": "I'm a first-year student who was awarded a merit tuition scholarship (Arizona Tuition Awards, Wildcat Tuition Awards, National Scholar Tuition Awards, or Global Wildcat Award). Will I retain that for the future term I have requested for deferment?",
+        "answer": "Yes, if you were offered a merit tuition scholarship (Arizona Tuition Award, Wildcat Tuition Award, National Scholar Tuition Award, or Global Wildcat Award) from the University of Arizona for your original admit term and choose to defer your enrollment, you will have your original scholarship award reinstated for the new term. If the merit awards change for the new term, you will not be eligible for the new award amount. However, if you enroll at another postsecondary institution during your deferment, you will no longer be eligible for the merit tuition scholarship you were originally offered. Your admission will be canceled and you will have to reapply for admission and be reevaluated for scholarship eligibility. All other financial aid offers including outside scholarships, or non-merit based University of Arizona tuition scholarships, grants, loans and other forms of aid offered for your original admit term will not be guaranteed. Upon return to the university in a future semester, you will receive a new financial aid offer. If you return a year after your original admit term to the university you will need to submit Free Application for Federal Student Aid (FAFSA ) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA."
+    },
+    {
+        "question": "How can I get more information about the University of Arizona?",
+        "answer": "If you are interested in learning more about the University of Arizona, please fill out this request for information form . Upon submission of this form, you will begin receiving updates from the University of Arizona. You can also explore our majors and degree programs . Visiting is a great way to get more information about our campus. You can explore your visit options for our main campus on our visit webpage ."
+    },
+    {
+        "question": "Will my credits from my community college or other institution transfer?",
+        "answer": "There are several things to consider when looking to transfer to Arizona from another college or university: Arizona community college students can preview how your credits will transfer by using our Transfer Credit Tool . If your credits are coming from an out Out-of-state institution, applicants can visit Transfer Credit and Articulation for more details. Note: more information on how to submit transcripts for evaluation is available at the top of the transfer credit page linked above."
+    },
+    {
+        "question": "How can I connect with other transfer students once I’m enrolled?",
+        "answer": "The Transfer Student Center is a great resource if you need support navigating the transfer process, finding community among fellow transfer students, and adjusting to Wildcat life."
+    },
+    {
+        "question": "How early should I apply?",
+        "answer": "Applying early is important. Our main campus fall semester application is available starting July 1st. Applications are accepted on a rolling basis and take 2 to 3 weeks to process. Students who apply and are admitted early have first access to their preferred orientation dates, access to the on-campus housing application, and our exclusive scholarship-matching service, Scholarship Universe.  Familiarize yourself with all application deadlines prior to applying."
+    },
+    {
+        "question": "Should students wait until after taking the SAT/ACT to apply?",
+        "answer": "No. It is recommended that students do not wait to apply since test scores are not required for admission. You can review our requirements for admission based on your applicant type here ."
+    },
+    {
+        "question": "Do you accept dual enrollment credit?",
+        "answer": "Yes, we do accept dual enrollment credit for admissions consideration. The determination of acceptability of credit for coursework completed at another college is made at the discretion of the University of Arizona. To see if you will earn transfer credit for coursework completed at a college or university visit. AZ Transfer for more information on transferring credits to Arizona universities. It is imperative that the student submit all dual enrollment classes on separate community college or university transcripts. Dual enrollment classes listed on the high school transcript will not be considered for college credit. Arizona community college students can preview how your credits will transfer by using our Transfer Credit Tool . Out-of-state applicants can visit Transfer Credit and Articulation for more details and information on how to submit transcripts."
+    },
+    {
+        "question": "Do homeschooled students self-report coursework and grades?",
+        "answer": "Yes. Homeschooled students should self-report their high school and college level homeschool coursework. A signed transcript with a graduation date is required prior to enrollment."
+    },
+    {
+        "question": "How do I report my senior year (12th grade) in-progress coursework?",
+        "answer": "All students who are currently attending high school are required to self-report their senior year coursework in the application process. Select 12th in the Grade Level dropdown menu when adding a course. Select In-Progress as the grades for all coursework currently in-progress. Note, we only consider 9 th , 10 th , and 11 th grade coursework and grades for merit-based scholarship considerations."
+    },
+    {
+        "question": "How do I self-report my grades if my high school follows a non-standard schedule such as trimesters or block schedules?",
+        "answer": "It is important that you enter your grades in accordance with the academic schedule that your school follows and how it is displayed on your transcript. Below you can find instructions on how to input your grades for each academic schedule. If you are simply unsure on how to enter your grades, you should have your transcript in front of you so that you enter them according to how they are listed on your transcript. Semester Schedule If your high school only assigns semester grades, enter the first semester grade into the first box and the second semester grade into the second box. Trimester Schedule If your school only assigns trimester grades, enter each trimester into one box of the three boxes. Quarter Schedule If your school only assigns quarter grades, enter one grade in each of the four grade boxes. Block Schedule If your school follows block scheduling, enter the grade in the first box. Final Grades Only If your high school only assigns final grades, enter the final grade in the first box. If your high school assigns final grades with semester or trimester grades, select the term schedule of \"Final Grades Only\" and enter the final grade in the first box."
+    },
+    {
+        "question": "How do I set up a visit to tour campus in person or virtually?",
+        "answer": "We would love to show you campus! Please register for a campus tour . Note, Admissions offers additional visit opportunities such as academic and department information sessions, student panels, and specialized events periodically throughout the year. This availability will be noted on the visit registration calendar linked above. We also offer a variety of virtual visit options including a virtual campus tour and recordings of prior information sessions and informational videos on our YouTube channel . These virtual resources are a helpful way to supplement in person visit opportunities."
+    },
+    {
+        "question": "How does the University of Arizona determine scholarship eligibility?",
+        "answer": "Please visit the Office of Scholarships and Financial Aid website for full details on how tuition award eligibility is determined at the University of Arizona."
+    },
+    {
+        "question": "When does the Arizona employee need to complete the application for QTR for their dependent(s)?",
+        "answer": "The application indicates form submission deadline is the 35th day of the fall and spring semester; however, earlier is better. University of Arizona employees can complete the QTR form (available in UAccess in the “Benefits” tile) as soon as the dependent has enrolled for classes. Until the QTR application is submitted, the student will see the charge for full tuition on their Bursar’s Account. Please see full details and information here ."
+    },
+    {
+        "question": "If I have already gone through orientation and then defer my admission will I have to go through orientation again?",
+        "answer": "Yes, you will have to go through an orientation session again for your future deferred term. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I go through orientation and then defer my admission, will I have to retake my placement exams for English, Math or Second Language?",
+        "answer": "Placement scores for Math and English are valid for one year unless you were placed via your SAT/ACT score or transfer credits, then you will need to take the placement exam again. Second Language scores never expire. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I was admitted to the Honors College, will my Honors admission also be deferred?",
+        "answer": "Yes, if you were admitted to the Honors College, your Honors admission will also be deferred for up to two semesters and you will not need to apply again. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I was admitted to the SALT Center, will my SALT Center Admission be deferred?",
+        "answer": "Yes, if you were admitted to the SALT Center, you will be able to defer your SALT admission for up to two semesters. Your SALT Center application and application fee will be deferred. If you paid the SALT Center enrollment fee, it will be refunded. You do not need to do anything else outside of submitting the Admissions deferment form to have your SALT Center Admission deferred to a future term. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "How do I know if I’m considered a first-year student or transfer student?",
+        "answer": "You are considered a first-year student if you will soon graduate high school, you have graduated, or you have a GED and have not enrolled in college since graduating. Or you have completed less than 12 college credits post high school. Please note that enrolling in college coursework following high school graduation will make you ineligible for first year tuition awards. You are considered a transfer student if you have attended other colleges or universities, including community colleges, and have completed 12 or more transferable credits since graduating high school. Dual enrollment college credits achieved while in high school do not consider you a transfer student, any amount of dual enrollment credits achieved before the while in high school will not make you a transfer student."
+    },
+    {
+        "question": "Who do I contact if I have concerns about my application and/or transcripts?",
+        "answer": "You may contact the admissions recruiter assigned to you or contact our Undergraduate Admissions Office . More information on how to send college level transcripts to University of Arizona can be found here . More information on how to send high school level transcripts can be found here ."
+    },
+    {
+        "question": "How do I apply for financial aid?",
+        "answer": "For detailed information about how to apply for financial aid and scholarships, please visit the Office of Scholarships and Financial Aid . The first step to apply for financial aid is to complete the Free Application for Federal Student Aid ( FAFSA ) for the appropriate academic year and list the University of Arizona (Title IV School Code 001083) as one of the schools on the FAFSA. After the Office of Scholarships and Financial Aid (OSFA) receives your FAFSA, your financial aid eligibility will be determined, and you will be sent a digital financial aid offer. The FAFSA opens on October 1 of each year so seniors should file the FAFSA as soon as possible after that date. For more information about applying for financial aid and the FAFSA, visit the Apply For Aid webpage ."
+    },
+    {
+        "question": "How much does it cost to attend the University of Arizona?",
+        "answer": "There is a lot that goes into estimating your costs to attend the University of Arizona. Everything from how much your tuition will be to what you may spend on books, supplies, rent, food, travel, etc. To review the current estimated cost of attendance, visit the cost page, found on the Office of Scholarships and Financial Aid website . You can utilize our cost of attendance calculator to view your unique cost of attendance."
+    },
+    {
+        "question": "Do employees get a reduction on residence halls for their dependents?",
+        "answer": "No – only the cost of base tuition and tuition differentials are offered at a reduction."
+    },
+    {
+        "question": "If I am a transfer student, request a deferment, and continue course work at a community college during my deferment and earn above the 80-unit maximum for the Transfer Tuition Scholarship, will my initial award still be honored?",
+        "answer": "No, your admission will be canceled and you will have to reapply for admission and be reevaluated for scholarship eligibility. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "Who is eligible to request a deferment?",
+        "answer": "Domestic and international first-year, transfer, and non-degree seeking students who are admitted to any of the following campuses: main, Arizona online, distance and south. Reasons for deferment may include, but are not limited to: military, medical, and faith based. Re-admit students are not eligible for deferment and must apply again for the future term. More information on deferment eligibility and a deferral FAQ can be found on the deferment website ."
+    },
+    {
+        "question": "What courses do I need to take to be admitted to the University of Arizona?",
+        "answer": "Please review our Core Competency Requirements ."
+    },
+    {
+        "question": "What if I am missing a required class? Should I still apply?",
+        "answer": "The University of Arizona allows up to two deficiencies in Core Competency Requirements. A deficiency is defined in one of two ways, missing a unit of coursework or falling below a 2.0 on a 4.0 scale in a specific subject area. Applicants must have an unweighted overall grade point average of 2.0 (A = 4.0) in each subject area and may not have more than two deficiencies. Students may not have deficiencies in both math and laboratory science or in the same subject area. Please review our application review process for more information"
+    },
+    {
+        "question": "Is it possible to have enough AP/IB, dual enrollment credit to be considered a sophomore/junior, etc.?",
+        "answer": "You will still apply as a first-year student and will be considered a first-year student with college-related credit for the purpose of admissions consideration. Once you have been admitted and the credits have been evaluated, you will be classified to the appropriate grade level based on the earned credits and their applicability to your chosen degree program. All students are considered first-year applicants when they apply for admission directly from high school."
+    },
+    {
+        "question": "Do I need to send official transcripts?",
+        "answer": "While you do not need to send official transcripts when you apply as a first-year student , you do need to send them once you have been admitted and enroll in the University of Arizona with your final year of high school grades posted with your graduation date, for us to verify your self-reported grades and courses in progress. Official high school transcripts will be used to confirm that all self-reported coursework and grades were reported accurately prior to enrollment at the University of Arizona. If you provided false information for the purposes of GPA or course improvement, it may invalidate further consideration for admissions or result in rescinding of the offer of admission and/or tuition awards"
+    },
+    {
+        "question": "Can I be assured admission to the University of Arizona?",
+        "answer": "Yes. You may be assured admission to University of Arizona if you are applying as a first-year student, you attended a regionally accredited high school, rank in the top 25% of your graduating class, and have no coursework deficiencies as prescribed by the Arizona Board of Regents or earn an unweighted GPA of 3.0 or higher in your core coursework."
+    },
+    {
+        "question": "How will Arizona calculate my GPA if I receive Pass/No Pass (Credit/No Credit) in my courses?",
+        "answer": "Core GPA calculations will not use a Pass/No Pass grading in the calculation. However, courses completed with a pass will fulfill the course requirements needed for admission. The University of Arizona will accept Pass/Fail grades for meeting core requirements but will not calculate into the core GPA. Arizona has always taken a comprehensive approach in our application review process. Our admissions office uses all application information provided, along with each student’s academic transcript. We are comfortable with a variety of grading systems, including letter or numeric grades, narrative evaluations, credit/no credit, and pass/fail."
+    },
+    {
+        "question": "Do I have to submit a hard copy of my Pima Community College transcript?",
+        "answer": "No. Students should request their Pima transcript be sent electronically to the University of Arizona. Students can request their transcripts online via MyPima or at the Student Services Center at any Pima campus."
+    },
+    {
+        "question": "Should my school mail the transcripts to the University of Arizona?",
+        "answer": "No. In order to qualify for STU 210UA Priority Registration, transcripts must be expedited to ensure timely processing of applications. The fastest method is to have transcripts sent to your home but keep them sealed. Mark STU 210UA on all transcript envelopes, place them in a 9x12 manila envelope (include checklist), and mail them to the Office of Admissions."
+    },
+    {
+        "question": "Am I required to submit an application packet if I do not have a hard-copy transcript to turn in?",
+        "answer": "No. Many STU 210UA students are able to submit all application requirements online or electronically. If you are not required to submit your High School transcript and have not attended a college other than Pima, you do not need to turn in an application packet."
+    },
+    {
+        "question": "How do I apply for Re-Admission as a returning student?",
+        "answer": "The Re-Admission application is only for students who previously attended the University of Arizona and earned grades. The Arizona Re-Admission application can be submitted ONLINE. If you have never attended the University of Arizona as a Degree-Seeking student, then you are required to apply via the Online Application System. Please see our returning student admissions webpage to see if you qualify."
+    },
+    {
+        "question": "Am I guaranteed Priority Registration?",
+        "answer": "Most students who take STU 210UA will receive Priority Registration, as long as they meet the application deadline and attend their mandatory College Meeting. Due to longer evaluation times, the following groups of students do not qualify for Priority Registration:"
+    },
+    {
+        "question": "When will I find out if I am admitted?",
+        "answer": "Admissions Decisions days are posted on the STU 210UA webpage, and vary by class section."
+    },
+    {
+        "question": "If I plan to enroll for a later term, when should I apply?  Will I still qualify for Priority Registration?",
+        "answer": "Students enrolled in STU 210UA will qualify for Priority Registration for two regular semesters (Fall/Spring) following their Transfer Strategies course. If you decide to skip a term between the course and enrollment, please see Paul Miller for application instructions, prior to completing any steps."
+    },
+    {
+        "question": "Who will have access to my sex, gender, and pronoun information?",
+        "answer": "Learn who will have access to preferred name, sex, gender and pronoun information provided on the application for admission."
+    },
+    {
+        "question": "How is my sex, gender, and pronoun information used from the admissions application?",
+        "answer": "Find out how preferred name, sex, gender and pronoun information provided on the application for admission will be used."
+    },
+    {
+        "question": "Why is the university collecting preferred name, sex, gender and pronoun information?",
+        "answer": "Learn why the university is collecting preferred name, sex, gender and pronoun information on the application for admission."
+    },
+    {
+        "question": "Where is the STU 210 Checklist that I am supposed to attach to my manila envelope?",
+        "answer": "The downloadable Checklist is the last page of the STU 210 UA Transfer Guide . There is a link under the section titled: Instructions for Applying to the University of Arizona . If you have hard-copy transcripts to submit, adhere to the guidelines on the checklist. If you have no hard-copy documents to submit, you do not need to download the Checklist."
+    },
+    {
+        "question": "If I have already gone through orientation, can I still request a deferment?",
+        "answer": "Yes, if you go through orientation you can request to defer as long as it is before the deadline for deferment. Please review our deferment policies for dates."
+    },
+    {
+        "question": "I have submitted an application but selected the wrong term by mistake, how can I update my term?",
+        "answer": "If you have not been admitted yet, you may contact your admissions recruiter assigned to you or contact our Undergraduate Admissions Office to request a term change. If you have already been admitted, you may request a deferment*. *See Defer Your Enrollment for eligibility and more information. If you are not eligible for a deferment , please cancel your admission and re-apply. If you would like to cancel your admission to the University of Arizona and have not paid your enrollment fee, please complete and submit the Admissions Cancellation Form within your Future Wildcat account. If you have already taken action with your enrollment fee , please visit the Next Steps Center and navigate to the bottom of the ‘secure your spot’ tab to cancel your admission to the University of Arizona. You may also mail in your cancellation notice. Please download and complete this Admissions Cancellation Form. Mail the form to: Office of Admissions University of Arizona PO Box 210073 Tucson AZ 85721 Please note: This is NOT a blanket cancellation. Appropriate cancellation forms must be sent to all university departments, i.e. Orientation, Admissions, Residence Life, etc. Please contact each department for details on their cancellation procedures and requirements."
+    },
+    {
+        "question": "I have an extenuating circumstance and I am not able to attend for the term I applied for. Can I defer my admission?",
+        "answer": "If you are not yet admitted, you may contact your admissions recruiter assigned to you or contact our Undergraduate Admissions Office to request a term change. If you have already been admitted, you may request a deferment*. *See Defer Your Enrollment for eligibility and more information. If you are not eligible for a deferment, please cancel your admission and re-apply. If you have not paid your enrollment fee, to cancel your admission to the University of Arizona please complete and submit the Admissions Cancellation Form within your Future Wildcat account. If you have already taken action with your enrollment fee, please visit the Next Steps Center and navigate to the bottom of the ‘secure your spot’ tab to cancel your admission to the University of Arizona. You may also mail in your cancellation notice. Please download and complete this Admissions Cancellation Form. Mail the form to: Office of Admissions University of Arizona PO Box 210073 Tucson AZ 85721 Please note: This is NOT a blanket cancellation. Appropriate cancellation forms must be sent to all university departments, i.e. Orientation, Admissions, Residence Life, etc. Please contact each department for details on their cancellation procedures and requirements."
+    },
+    {
+        "question": "I was admitted but have decided not to attend, what do I need to do?",
+        "answer": "If you would like to cancel your admission to the University of Arizona and have not paid your enrollment fee, please complete and submit the Admissions Cancellation Form within your Future Wildcat account. If you have already taken action with your enrollment fee, please visit the Next Steps Center and navigate to the bottom of the ‘secure your spot’ tab to cancel your admission to the University of Arizona. If you have additional questions about canceling your admission, contact the New Student Services team at orientation@arizona.edu ."
+    },
+    {
+        "question": "What applications for admission does the University of Arizona accept?",
+        "answer": "You can apply for admission as a first-year, transfer, or returning student by using any one of the following applications:"
+    },
+    {
+        "question": "How do I apply to the University of Arizona?",
+        "answer": "Learn about the application process for:"
+    },
+    {
+        "question": "How do I find my admissions recruiter?",
+        "answer": "You can find your domestic University of Arizona Admissions recruiter by visiting Who Is My Recruiter? . You can find your international University of Arizona Admissions recruiter by visiting Meet Your International Enrollment Counselor . You may also reach out to the Office of Undergraduate Admissions at admissions@arizona.edu or 520-621-3237 for additional support."
+    },
+    {
+        "question": "My family’s financial situation has changed. Can I be considered for additional aid?",
+        "answer": "The university understands that families’ financial circumstances may have changed. To learn more about the different special circumstance appeals offered, visit the Financial Aid appeals website ."
+    },
+    {
+        "question": "What is the Comprehensive Review Process and can I still be considered for admission with deficiencies in admissions requirements?",
+        "answer": "We recognize that personal excellence can and should be evaluated by more than just academic achievement through our Comprehensive Review Process, we expand access to students with solid academic records who will also bring unique life experiences and personal achievements to our campus community and account for differences in educational offerings. This process allows us to consider more than just a student's academic profile. As part of our Comprehensive Review Process , we consider: Academic Factors Factors such as class rank, strength of curriculum, performance in curriculum, grade point average in required core academic courses and optional materials (resumé, and personal statement) will be considered for students’ admission. During the review process, students may be asked to provide additional information, such as 7th semester transcripts. Extracurricular Factors Other factors may include leadership, service, work experience and extracurricular activities; personal characteristics, attributes, and talents; and the ability to benefit from and contribute to a challenging learning environment. We are interested in learning much more about your preparedness, motivation, and potential in the unique context of your experience. Your Personal Statement The inclusion of an optional short answer, personal narrative or statement to the application gives you the opportunity to include unique life experiences and personal achievements in your application and the ability to explain weaker areas of your academic history or journey. This section is not an essay and there is no content expectation. Through this process, we create more comprehensive and individualized admission and scholarship decisions while providing context to areas of concern on a student’s transcript or academic record."
+    },
+    {
+        "question": "If I have been awarded the Arizona Promise Grant and choose to defer my admission for one or two semesters, will I still remain eligible for the grant?",
+        "answer": "If you defer your enrollment one semester, yes, your Arizona Promise Grant will be retained. Your current financial aid offer, including Arizona Promise Grant, will be canceled and it will be re-offered for the next semester. If you defer for one year, your current financial aid offer including Arizona Promise Grant, will be canceled and you will need to reapply and an offer will be re-offered for the semester you plan to enter based on your updated financial status. To be re-offered Arizona Promise Grant, you will need to meet all eligibility requirements. For more information, view our Arizona Promise Grant eligibility requirements. These details are typically finalized and shared by October 1 each year. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I am a transfer domestic/international student and have been awarded a merit tuition scholarship (Phi Theta Kappa, Transfer Tuition Award, or Global Wildcat Award) will I retain that for the future term I have requested for deferment?",
+        "answer": "Yes, if you were offered a merit tuition scholarship from the University of Arizona and choose to defer your enrollment you will have your scholarship reinstated for the new term. If the merit awards change for the new term you will not be eligible for the new award amount. However, if you enroll at another postsecondary institution during your deferment, you will no longer be eligible for the merit tuition scholarship you were originally offered. Your admission will be canceled and you will have to reapply for admission and be reevaluated for scholarship eligibility. All other financial aid offers including outside scholarships, or non-merit based University of Arizona tuition scholarships, grants, loans and other forms of aid offered for the original admit term will not be guaranteed. Upon return to the university in a future semester, you will receive a new financial aid offer. If you return a year after your original admit term to the university you will need to submit a FAFSA) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I have already gone through orientation, can I still request a deferment?",
+        "answer": "Yes, if you go through orientation you can request to defer as long as it is before the deadline for deferment. Please review our deferment policies for dates."
+    },
+    {
+        "question": "If I was awarded Arizona Assurance and I defer my admission one or two semesters, will I still be eligible for Arizona Assurance?",
+        "answer": "If you defer your enrollment one semester, yes, your Arizona Assurance selection will be retained. Your current financial aid offer, including Arizona Assurance grant, will be canceled and it will be re-offered for the next semester. If you defer your enrollment two semesters, your Arizona Assurance selection will not be retained. To be re-considered for Arizona Assurance for the next academic year, you will need to meet all consideration requirements and go through the selection process again. The selection process is subject to change each year therefore you will be subject to all consideration rules including deadlines and eligibility requirements for the new term. For more information, view our Arizona Assurance details and contact information. These details are typically finalized and shared by October 1 each year. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I am a first-year student and defer my enrollment, will I retain my merit tuition scholarship for my future term?",
+        "answer": "Yes, if you were offered a merit tuition scholarship (Arizona Tuition Award, Wildcat Tuition Award, National Scholar Tuition Award, or Global Wildcat Award) from the University of Arizona for your original admit term and choose to defer your enrollment, you will have your original scholarship award reinstated for the new term. If the merit awards change for the new term, you will not be eligible for the new award amount. However, if you enroll at another postsecondary institution during your deferment, you will no longer be eligible for the merit tuition scholarship you were originally offered. Your admission will be canceled and you will have to reapply for admission either as a first-year or transfer student depending on how many credits were attempted and your merit scholarship will be reevaluated for scholarship eligibility based on the new application and criteria. All other financial aid offers including outside scholarships, or non-merit based University of Arizona tuition scholarships, grants, loans and other forms of aid offered for your original admit term will not be guaranteed. Upon return to the university in a future semester, you will receive a new financial aid offer. If you return a year after your original admit term to the university you will need to submit ) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I defer for one semester but then decide I would like to change my deferment term to two semesters, will I be able to request this change?",
+        "answer": "Yes, you can change your deferment term up to two times by going to your Future Wildcat Account and submitting a new deferment form with an updated term. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I defer for two semesters but then decide I would like to change my deferment term to three semesters, will I be able to request this change?",
+        "answer": "Yes, you will need to contact us in writing at admissions@arizona.edu to make this request as the deferment request form will not allow you to pick an earlier term. You will need to make this request before the deadline to defer for the term you would like to defer to so that we can update your term before spring semester begins. Please review our deferment policies for more deferment information and deadlines to request deferment."
+    },
+    {
+        "question": "If I go through orientation and then defer my admission will I have to retake my placement exams for English, Math or Second Language?",
+        "answer": "Placement scores for math and english are valid for one year unless you were placed via your ACT/SAT score or transfer credits, then you will need to take the placement exam again. Second language scores never expire. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I have already gone through orientation and then defer my admission will I have to go through orientation again?",
+        "answer": "Yes, you will have to go through an orientation session again for your future deferred term. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "If I have applied for on-campus housing what will happen to my housing application fee and housing rent down payment?",
+        "answer": "Housing Application Fee: Your housing application fee, if paid, will not be refunded. If you defer your admission one or two semesters, your housing application fee will be credited to your entering terms housing application. If you return after three semesters and wish to live in on-campus housing you will have to pay your housing application fee and apply again. Rent Down Payment: If you have paid your rent down payment, that fee will be refunded. Please review our deferment policies for more deferment information and Housing & Residential Life for more housing information."
+    },
+    {
+        "question": "If I was admitted to the SALT Center and defer my admission will my SALT Center Admission be deferred?",
+        "answer": "Yes, if you were admitted to the SALT center you will be able to defer your SALT admission for up to two semesters. Your SALT Center application and application fee will be deferred. If you paid the SALT center enrollment fee, it will be refunded. You do not need to do anything else outside of submitting the Admissions deferment form to have your SALT Center Admission deferred to a future term. Please review our deferment policies and SALT Center for more information."
+    },
+    {
+        "question": "If I was admitted to the Honors College and defer my admission will my Honors admission also be deferred?",
+        "answer": "Yes, if you were admitted to the Honors College your Honors admission will also be deferred for up to two semesters and you will not need to apply again. Please review our deferment policies for more deferment information and W.A. Franke Honors College for more honors college information."
+    },
+    {
+        "question": "If I am a first-year applicant, request a deferment or take a gap year, and take more than 12 credits of course work at a community college during my deferment or gap year, will my initial award still be honored?",
+        "answer": "No, your admission will be canceled and you will have to reapply for admission as a transfer student and be reevaluated for scholarship eligibility. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "How do I send my transcripts?",
+        "answer": "If you are applying as a first-year student , you will send your final official high school transcripts once you are admitted and enrolled to the university and after your graduation date from high school. If you do not self-report your classes and grades in your application, your application is not complete until we receive your official or unofficial high school transcript. You can request that your high school either send your transcript via mail or electronically. Please see below for instructions. High school transcripts can be sent via mail directly from your high school to: The University of Arizona Office of Admissions P.O. Box 210073 Tucson, AZ 85721-0073 Note: We can accept electronic transcripts via secure, third-party vendors. Electronic submission of high school transcripts may be directed to admissions@arizona.edu . College-level transcripts may be directed to REG-transcripts@email.arizona.edu . Please note that we cannot accept transcripts directly by email or fax; they must be sent through a secure online service, such as Docufide by Parchment . If you are applying as a transfer student , we require official transcripts from each institution you have attended, including high school. Contact the Registrar's Office at all of the colleges and universities you attended, and request that an official transcript be sent by mail or electronically: Mail physical domestic college transcripts to: Registration & Transcripts The University of Arizona Administration Building, Room 210 P.O. Box 210066 Tucson, AZ 85721-0066 You do not have to send your high school transcripts if you are a transfer student and: Mail international college transcripts to: International Admissions The University of Arizona Global Center 615 N. Park Avenue Tucson, AZ 85721 Note: College-level transcripts may be directed to REG-transcripts@email.arizona.edu . Please note that we cannot accept transcripts directly by email or fax; they must be sent through a secure online service, such as Docufide by Parchment . If you are a continuing student and, for example, take a summer school course at another institution, your transcripts should be sent to the Registrar's Office at the above address. All student types , please note that the processing time for submitted documents can be up to 2-4 weeks and students may receive correspondence from our office during that time. This situation often occurs when transcripts and the notification pass in the mail; the transcripts do not need to be sent again. If you have concerns, please feel free to contact us at admissions@arizona.edu or 520-621-3237. If you took the GED, your official GED test scores will fulfill the high school transcript requirement. You will be able to send your official scores directly from the testing agency to the address above. If you’ve completed another high school equivalency test, please refer to our High School Competency Requirements ."
+    },
+    {
+        "question": "Do you require letters of reference?",
+        "answer": "We do not require letters of reference for admission to the University of Arizona. However, they may be required if you are interested in applying to the Honors College. Learn more about becoming an Honors Wildcat ."
+    },
+    {
+        "question": "Who do I contact with questions about my University of Arizona application?",
+        "answer": "Students should contact Paul Miller, or University of Arizona Admissions (520-621-3237/ admissions@arizona.edu ) with questions about their application. Please DO NOT contact the University of Arizona Admissions Processing Team with questions about your application."
+    },
+    {
+        "question": "Do I need to submit my Immunization Records/Verification Form with my transcripts?",
+        "answer": "No. Immunization records are not required until after an applicant is admitted and has a University of Arizona Student ID number. At that point, the student can fax their form to Campus Health.  Instructions on how to submit your Immunization Records can be found at Campus Health ."
+    },
+    {
+        "question": "I am a University of Arizona employee and my student is attending the university. How do I learn more about Qualified Tuition Reduction (QTR) and the Educational Assistance Program (EAP)?",
+        "answer": "The University of Arizona and the Arizona University System offer options for eligible employees and their families to further their education at reduced tuition rates. You can learn more by visiting Human Resources and Financial Aid ."
+    },
+    {
+        "question": "Can I make changes to my self-reported courses after I have submitted the online application?",
+        "answer": "Prior to submitting the application, you may save your progress and make changes to it.  However, once submitted, you cannot make changes to your application, so be sure to review entries carefully. If you realized that you made a mistake with your self-reported coursework, please submit our Self-Reported Class Rank & Grades Form for First-Year Applicants [PDF] ."
+    },
+    {
+        "question": "How will I find out if I’ve received a scholarship?",
+        "answer": "If you are offered a tuition scholarship, you will be notified by the Office of Undergraduate Admissions. You can also review your application status and scholarships awarded within the application portal, Future Wildcat ."
+    },
+    {
+        "question": "How do I apply for scholarships?",
+        "answer": "Students who submit a complete admission application will automatically be considered for merit tuition awards, so long as they submit a completed application by the respective deadlines for first-year and transfer students. Admitted students may find additional scholarships using our scholarship matching database, Scholarship Universe ."
+    },
+    {
+        "question": "How do I pay the application fee?",
+        "answer": "The application fee is $50 for Arizona residents and $80 for non-residents. If you apply online, you can log into your application after it has been submitted and pay the application fee online using your username and password. We do not accept cash payments. If you are unable to pay the application fee, we will accept a \"fee waiver\". You can request an application fee waiver within the application when you apply online. The waiver is based on financial need. Please note that the application will not be processed until a fee waiver or application fee has been received."
+    },
+    {
+        "question": "When is the University of Arizona’s application deadline?",
+        "answer": "Please visit our deadlines page for more details."
+    },
+    {
+        "question": "What happens if I inaccurately report my grades on my application for admission?",
+        "answer": "Upon receipt of your official high school transcripts, the Office of Undergraduate Admissions will complete a comprehensive evaluation of your application. If determined that your self-reported information and your transcript do not match and your academic record does not meet our admission guidelines, your admission may be rescinded and our office will be in contact. I am unable to request an official transcript from my high school, community college and/or university for my admissions application. Will the University of Arizona accept unofficial transcripts? Official transcripts are required for verification purposes and to officially transfer any college credit to the university. If you’re having trouble obtaining your official transcript, please contact the University of Arizona Office of Undergraduate Admissions at (520) 621-3237 or admissions@arizona.edu ."
+    },
+    {
+        "question": "How do I self-report my grades if my high school uses a non-standard grading scale?",
+        "answer": "We ask that you input your high school course grades according to the University of Arizona’s standard letter scale to assist in our evaluation process. Grades should be entered unweighted. You must have your high school transcript, or official grade report, with you when filling out this section. If you are having trouble converting your grades into a letter scale, you can refer to our conversion guide. For classes in which you are currently enrolled, please select a grade of In-Progress. Please contact the Office of Undergraduate Admissions at admissions@arizona.edu or (520) 621-3237 if you have additional questions. Numerical Grade Conversion Guide 90% or above converts to an A 80-89% is a B 70-79% is a C 60-69% is a D 59% or below converts to an F IB Grade Conversion Guide 6 or 7 converts to an A 5 is a B 4 is a C 3 is a D 1 or 2 is an F 4.0 Scale Grade Conversion 3.5-4.0 converts to an A 2.5-3.49 is a B 1.5-2.49 is a C 1.0-1.49 is a D Below 1.0 is an F"
+    },
+    {
+        "question": "Does the University of Arizona require SAT or ACT scores?",
+        "answer": "No. SAT/ACT scores are not required for general admission to the university, tuition scholarship eligibility, or admission to our more selective programs such as the Honors College. If a student chooses to submit official SAT/ACT scores, they may be used to clear course deficiencies or assist with class placement at orientation or to help fulfill our Core Competency Requirements . Please note: To be considered, official test scores must be sent directly from the testing agency."
+    },
+    {
+        "question": "How long does it take to process a transcript?",
+        "answer": "Please note that the processing time for submitted documents can be up to 2-4 weeks and students may receive correspondence from our office during that time. This situation often occurs when transcripts and the notification pass in the mail; the transcripts do not need to be sent again. If you have concerns, please feel free to contact us at admissions@arizona.edu or 520-621-3237."
+    },
+    {
+        "question": "Can I combine my QTR benefit with merit tuition scholarship awards awarded to my dependent(s)?",
+        "answer": "It may be possible for you to use both your QTR benefit and tuition awards. Please see the Qualified Tuition Reduction and Merit Aid page for additional details."
+    },
+    {
+        "question": "What resources are there for parents and family members of University of Arizona students?",
+        "answer": "As the parent or family member of a University of Arizona student, you are a valued member of the Wildcat community. We encourage you to get involved through opportunities available through our Parent & Family Programs ."
+    },
+    {
+        "question": "Will criminal records need to be disclosed at any point during my enrollment process and how will this impact my admissions status?",
+        "answer": "Admitted students with a criminal record will provide supplemental information to the Dean of Students Office . In certain cases, admitted students may need an individual review and evaluation to assess appropriate pathways to enrollment at the University of Arizona. In these cases, enrollment may be denied or restricted. Upon admission, please click the accurate and appropriate boxes in Next Steps Center reference criminal records to ensure smooth processing of your enrollment."
+    },
+    {
+        "question": "I was admitted to the University of Arizona. What do I do next?",
+        "answer": "Congratulations! There are a few things you need to do to officially become an Arizona Wildcat at our main campus in Tucson, Arizona. Your Next Steps Center is home to all the resources you need to pursue enrollment at the University of Arizona. In this portal you will find all your remaining action items, like paying your enrollment fee, applying for housing, and signing up for orientation. Ready to become a Wildcat? Click “Secure Your Spot” in your Next Steps Center to begin the enrollment process. We recommend bookmarking your Next Steps Center on your internet bookmark bar and writing down your login information since you will return to this portal frequently."
+    },
+    {
+        "question": "Is there an appeal process for a denied student?",
+        "answer": "Yes. Please contact the Office of Undergraduate Admissions for information on how to receive an appeal packet, which could require information like:"
+    },
+    {
+        "question": "How long does it take to find out if I’ve been admitted to the University of Arizona?",
+        "answer": "Once we have your completed application, including self-reported grades and application processing fee or eligible fee waiver, it typically takes 2-3 weeks to process, review, and mail a decision. Your application is considered complete after we have received the final items in your application requirements checklist. You can view updates regarding your application (including any missing information requested and admissions decisions) by logging into your Future Wildcat portal ."
+    },
+    {
+        "question": "What credit will I receive for my AP/IB scores?",
+        "answer": "Congrats on challenging yourself. Check out how these scores are evaluated below. See how AP scores are evaluated . See how IB scores are evaluated ."
+    },
+    {
+        "question": "Can I live on campus if I’m a transfer student?",
+        "answer": "Yes, the University of Arizona strongly encourages all incoming students to live on campus their first year. We have 23 undergraduate residence halls and a variety of themed living-learning communities, including a living learning community for transfer students . For more information about living on campus, refer to the Housing & Residential Life website . There is also a variety of off-campus housing options near Arizona’s campus. For more information on off-campus housing options, including roommate matching, check out Off-Campus Housing . Since on campus housing is not required, we recommend applying for housing early if interested since housing does fill up."
+    },
+    {
+        "question": "Can my school send the transcript electronically?",
+        "answer": "Yes, please have electronic transcripts sent to the following addresses: *NOTE: We can accept electronic transcripts processed by the sending institution through secure, third party vendors only. Please request that your electronic transcript be sent directly to this email address, not to yourself or to your advisor."
+    },
+    {
+        "question": "Are students required to purchase a meal plan?",
+        "answer": "Meal plans are convenient and can save you money, but they are not required. For more information, visit this list of Meal Plan FAQs ."
+    },
+    {
+        "question": "How will I be reviewed for admission if I’ve completed a GED or other high school equivalency test?",
+        "answer": "Visit our High School Competency Requirements to learn more about our admissions process and score requirements for students who have completed the GED or another high school equivalency test, including High School Equivalency Test (HiSet), California Proficiency (CHSPE), Grand Canyon High School Diploma (GCHS), or Test Assessing Secondary Completion (TASC)."
+    },
+    {
+        "question": "How do I apply to the University of Arizona?",
+        "answer": "Please review the STU 210UA Transfer Guide. Fall  2023 STU 210 Transfer Guide"
+    },
+    {
+        "question": "How will I find out if I am admitted?",
+        "answer": "There are two designated Admission Decision days for each class section. Please review the dates for your section, posted on the STU 210UA webpage. If you complete your application requirements after the STU 210UA deadline, please check with your Pima Instructor in class for updates, or contact a University of Arizona Transfer Representative. Official notices of admission can be found in your Future WildCat account and are sent to you via US Mail."
+    },
+    {
+        "question": "How do I get coded for Priority Registration?",
+        "answer": "Students must click the \"Proceed to Coding\" link on the website, or follow the link in the Transfer Guide, and fill out the form to be coded for STU 210UA. This coding determines qualification for Priority Registration. Please be aware that the University of Arizona Admissions Processing Team will verify enrollment in STU 210UA for every student that requests coding. Students who are not enrolled in STU 210UA will not be coded. The form link and instructions to request coding are provided in the STU 210UA Transfer Guide."
+    },
+    {
+        "question": "Do I have to pay the enrollment fee?",
+        "answer": "Yes, all students must pay the enrollment fee. The enrollment fee ensures your place at the University of Arizona's main campus in Tucson, Arizona. Visit orientation.arizona.edu for additional details. Ready to become a Wildcat? Click \"Secure Your Spot\" in your Next Steps Center to begin the enrollment process and pay your enrollment fee."
+    },
+    {
+        "question": "What is the enrollment fee?",
+        "answer": "The enrollment fee ensures your place at the University of Arizona’s main campus in Tucson, Arizona. The fee is used to pay for orientation, your University of Arizona CatCard (student ID) and course placements. Visit orientation.arizona.edu for additional details. Ready to become a Wildcat? Click “Secure Your Spot” in your Next Steps Center to begin the enrollment process and pay your enrollment fee."
+    },
+    {
+        "question": "How do I complete my enrollment?",
+        "answer": "Once you have been admitted, and obtained your Student ID number and PIN, you must go to the Next Steps Center to complete your enrollment. To login to your Next Steps Center you will need to create a UA NetID . In your Next Steps Center, click “Secure Your Spot” to begin the process to become a Wildcat. You will then gain access to your personalized checklist for enrollment and can begin completing those steps. We recommend bookmarking your Next Steps Center on your internet bookmark bar and writing down your login information since you will return to this portal frequently."
+    },
+    {
+        "question": "Where does my STU 210 class meet at the University of Arizona?",
+        "answer": "Class are in-person. Students should check the Announcements on the STU 210UA webpage for locations."
+    },
+    {
+        "question": "Where do I find my academic advisor’s contact information?",
+        "answer": "You can visit the Advising Resource Center at advising.arizona.edu , and use the Directory to search for advisors by Major or College. Feel free to reach out to the academic advisor for colleges and programs you are interested in and have questions about."
+    },
+    {
+        "question": "I believe I was incorrectly classified as a non-resident, how do I correct this?",
+        "answer": "If you believe you are a resident of the State of Arizona but have been classified as a non-resident, you must file a domicile affidavit and submit it to the Residency Classification Office. Please refer to the Residency Classification website for Arizona residency policies and a downloadable PDF of the domicile affidavit form. Questions about if you qualify as a resident or non-resident of Arizona? Contact information for our Residency Classification Office can be found at the link above."
+    },
+    {
+        "question": "What are my options if I missed the deferment deadline?",
+        "answer": "If the deferment deadline has passed for the term you were admitted, you must cancel your admission and submit a new application. Students will be re-evaluated for merit tuition scholarships based on the criteria of the term for which you apply. Students who return a year after their original admit date to the university after will need to submit Free Application for Federal Student Aid (FAFSA ) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA. Please note that Domestic First-Year Merit Tuition Scholarship Awards are offered to students applying for fall terms and International First-Year Merit Tuition Scholarship Awards and Domestic and International Transfer Merit Awards are offered in both the fall and spring terms. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "What are my options if I missed the deferment deadline?",
+        "answer": "If the deferment deadline has passed for the term you were admitted, you must cancel your admission and submit a new application. Students will be re-evaluated for merit tuition scholarships based on the criteria of the term for which you apply. Students who return a year after their original admit date to the university after will need to submit Free Application for Federal Student Aid (FAFSA ) for the applicable aid year in order to receive a new financial aid offer. Please remember to use Arizona school code 001083 when completing the FAFSA. Please note that Domestic First-Year Merit Tuition Scholarship Awards are offered to students applying for fall terms and International First-Year Merit Tuition Scholarship Awards and Domestic and International Transfer Merit Awards are offered in both the fall and spring terms. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "Are students required to live on campus?",
+        "answer": "You are not required to live on campus, but it is highly encouraged. For more information and to explore all our dorms, please visit the Housing & Residential Life website . For off-campus housing options, please visit Off-Campus Housing . Since housing is not required, on campus housing is available on a first come-first-serve basis so we recommend students apply early if they would like to live on campus."
+    },
+    {
+        "question": "If I enrolled in and completed courses over the summer at the University of Arizona either on my own, for New Start or any other University of Arizona affiliated program as a degree-seeking student, can I request a deferment?",
+        "answer": "No, if you were admitted for the summer or fall term and completed summer courses at the University of Arizona, you will remain active and eligible to enroll for spring or fall and do not need to request a deferment. However, if you have a merit tuition scholarship you will need to request a deferment for your scholarship to see if you can retain your scholarship when you return. If you want to enroll after two semesters, you will have to reapply for admission. Please review our deferment policies for more deferment information."
+    },
+    {
+        "question": "What is the deadline for committing to the University of Arizona?",
+        "answer": "While there is no hard deadline for students to commit, we recommend students utilize May 1, National College Decision Day, as a good day to decide by. Note that some registration and application items like orientation, housing, and scholarships have priority deadlines before May 1 and fill up quick. Deadlines to cancel your admission and request a refund of the enrollment fee are listed in your Next Steps Center . Additionally, orientation sessions and housing spaces fill up quickly, so we encourage you to complete these items as soon as possible. The deadline to be refunded the enrollment fee is May 15. If you have already been admitted to the university, you can learn more about getting #WildcatReady by visiting the New Student Orientation website."
+    }
+]
