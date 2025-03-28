@@ -40,6 +40,7 @@ You can choose between **OpenAI** (using their API) or **Ollama** (running a loc
 ├── ollama_summarize_webpage.ipynb  
 ├── openai_summarize_webpage.ipynb  
 ├── tech_qna_chatbot.ipynb  
+├── Meeting Minutes product.ipynb  
 ├── requirements.txt  
 ├── README.md  
 
@@ -51,6 +52,7 @@ You can choose between **OpenAI** (using their API) or **Ollama** (running a loc
 - **Local LLM (Ollama)**: Summarize text using a locally hosted LLM if you prefer not to send data externally.
 - **OpenAI API**: Summarize text using OpenAI’s GPT models (requires an API key).
 - **Tech Q&A Chatbot**: A simple interface that lets you ask technical questions and get answers in real time.
+- **Meeting Minutes Generator**: Upload or record audio to generate transcriptions and structured meeting notes.
 
 ---
 
@@ -85,8 +87,25 @@ You can choose between **OpenAI** (using their API) or **Ollama** (running a loc
 
 ![image](https://github.com/user-attachments/assets/95fbf94c-c843-4489-a97e-39dbdf58ea76)
 
+![alt text](image.png)
+
+
+## Usage
+
+### 1. Summarizing with OpenAI
+Use `openai_summarize_webpage.ipynb` to generate summaries using GPT models.
+
+### 2. Summarizing with Ollama
+Use `ollama_summarize_webpage.ipynb` to summarize webpages locally.
+
+### 3. Tech Q&A Chatbot
+Use `tech_qna_chatbot.ipynb` to ask and answer technical questions using OpenAI.
+
+### 4. Meeting Minutes Generator
+Use `meeting-minutes_product.ipynb` to upload or record audio and automatically transcribe and structure meeting notes.
+
 
 ### Contact
 **Author**: Viren Sasalu, Aastha Prasad  
 **Email**: virensasalu@gmail.com, 20aasthaprasad@gmail.com  
-**GitHub**: @virensasalu, @20mausam  
+**GitHub**: @virensasalu, @mausam20  
