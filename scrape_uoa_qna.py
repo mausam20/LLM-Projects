@@ -17,19 +17,6 @@ if response.status_code == 200:
     # Convert to an lxml element tree
     dom = etree.HTML(str(soup))
 
-    # Extract FAQ questions and answers using XPath
-    # faq_data = []
-    # questions = dom.xpath("//*[contains(@class, 'Faqs__FAQTitle')]/text()")
-    # answers = dom.xpath("//*[contains(@class, 'Faqs__FAQContentWrapper')]//text()")
-    # import pdb;pdb.set_trace()
-
-    # # Combine questions and answers into a list of dictionaries
-    # for question, answer in zip(questions, answers):
-    #     faq_data.append({
-    #         "question": question.strip(),
-    #         "answer": answer.strip()
-    #     })
-
     faq_data = []
     questions = dom.xpath("//*[contains(@class, 'Faqs__FAQTitle')]")
     
